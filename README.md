@@ -12,6 +12,7 @@ Framework: React
 4. ```npm run dev```
 
 ### Preview 
+![Counter App](./img/counter.png)
 
 
 
